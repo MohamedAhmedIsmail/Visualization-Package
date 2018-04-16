@@ -1,0 +1,19 @@
+c:\users\mohamedismail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\MeshLoader.dll
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\MeshLoader.pdb
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.Cache
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task1.dll
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task1.pdb
+C:\Users\MohamedIsmail\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\MohamedIsmail\Documents\Visual Studio 2013\Projects\Task2\Task2\obj\Debug\Task2.Form1.resources
+E:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\bin\Debug\Task2.exe.config
+E:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\obj\Debug\Task2.exe
+E:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\obj\Debug\Task2.pdb
+D:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\bin\Debug\Task2.exe.config
+D:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\obj\Debug\Task2.exe
+D:\computer science\courses\year 4\semester 1\Visualization\Labs\Task2\Task2\obj\Debug\Task2.pdb
